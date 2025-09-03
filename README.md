@@ -3,6 +3,7 @@
 A comprehensive data analytics project that performs an in-depth analysis of supermarket sales data. The project covers the entire data pipeline, from initial data cleaning and processing in Python to building an interactive and insightful dashboard in Power BI.
 
 🛠️ Tools & Technologies
+
 **Data Processing & Analysis**:Python (Pandas, NumPy, Matplotlib, Seaborn)
 **Data Visualization**:Microsoft Power BI
 **Version Control**: Git, GitHub
